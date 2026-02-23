@@ -1,16 +1,71 @@
-## Hi there 👋
+ABOUT ME
+- 🔭 I’m currently working on MY PORTFOLIO AND A PORTFOLIO FOR A MUSICALLY GIFTED FRIEND 
+- 🌱 I’m currently learning MORE JAVASCRIPT AND WANT TO LEARN REACT
+- 👯 I’m looking to collaborate on WHATEVER
+- 🤔 I’m looking for help with FEEDBACK ON MY PROJECTS
+- 💬 Ask me about MY HOBBIES (DND AND MAGIC THE GATHERING)
+- 📫 How to reach me: SILJE.REPPE@OUTLOOK.COM 
+- ⚡ Fun fact: GOOD AT ARCHERY
 
-<!--
-**MissAdelliah/MissAdelliah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Project Title
 
-Here are some ideas to get you started:
+Short description of what the project does or is about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+
+- Rainydays
+- JSI
+- SP1 / PE1
+
+## Prerequisites
+
+- Node.js (v20+)
+- npm
+
+## Getting Started
+
+### Installation
+
+```bash
+npm install
+```
+
+### Running the project
+
+```bash
+npm run dev
+```
+
+### Running tests
+
+```bash
+npm run test
+```
+
+## Environment Variables
+
+Create a `.env` file in the root directory:
+
+```bash
+API_KEY=your-api-key-here
+BASE_URL=https://example.com/api
+```
+
+## Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run test` - Run tests
+- `npm run lint` - Run ESLint
+
+## Technologies
+
+- JavaScript
+- HTML
+- CSS
+- ESLint
+- Prettier
+
+## Author
+
+MissAdelliah
