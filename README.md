@@ -1,11 +1,8 @@
 ABOUT ME
-- 🔭 I’m currently working on MY PORTFOLIO AND A PORTFOLIO FOR A MUSICALLY GIFTED FRIEND 
-- 🌱 I’m currently learning MORE JAVASCRIPT AND WANT TO LEARN REACT
-- 👯 I’m looking to collaborate on WHATEVER
-- 🤔 I’m looking for help with FEEDBACK ON MY PROJECTS
-- 💬 Ask me about MY HOBBIES (DND AND MAGIC THE GATHERING)
+- 🔭 I’m currently working on my portfolio 
+- 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me: SILJE.REPPE@OUTLOOK.COM 
-- ⚡ Fun fact: GOOD AT ARCHERY
+
 
 # Project Title
 
