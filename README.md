@@ -4,4 +4,4 @@ ABOUT ME
 - 📫 How to reach me: SILJE.REPPE@OUTLOOK.COM 
 
 - JavaScript, HTML, CSS
-- Want to learn React and tailwind 
+- Want to learn tailwind and Blender
